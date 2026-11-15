@@ -308,11 +308,19 @@ DSA.runBenchmark()
 
 ## Authors
 
-- **Your Name** — role / student number
-- **Teammate Name** — role / student number
+Ramos, Jewel May M.
+Odevilas I, Abigail B.
+Retiz, Kharel Miles S.
 
-Course / Subject: _Subject name here_
-Instructor: _Instructor name here_
+Course / Subject:
+CMSC 203 Objected-Oriented Programming
+ITEC 105- Information Management
+ITEC 104 - Data Structures and Algorithm
+Instructor: 
+Ms. Roxanne Garbo
+Mr. Jencel Sofer
+Mr. Rolan Sotomayor
+
 College of Computer Studies, Laguna State Polytechnic University
 
 ---
