@@ -311,12 +311,11 @@ DSA.runBenchmark()
 Ramos, Jewel May M.
 Odevilas I, Abigail B.
 Retiz, Kharel Miles S.
-
-Course / Subject:
+## Course / Subject:
 CMSC 203 Objected-Oriented Programming
 ITEC 105- Information Management
 ITEC 104 - Data Structures and Algorithm
-Instructor: 
+## Instructor: 
 Ms. Roxanne Garbo
 Mr. Jencel Sofer
 Mr. Rolan Sotomayor
